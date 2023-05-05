@@ -1,16 +1,21 @@
-# expense_tracker
+# Flutter Expense Tracker App
 
-A new Flutter project.
+![alt text](https://github.com/k2tam/Flutter_Expense_Tracker/blob/main/readme_images/home_light.png?raw=true)
 
-## Getting Started
+![alt text](https://github.com/k2tam/Flutter_Expense_Tracker/blob/main/readme_images/home.png?raw=true)
 
-This project is a starting point for a Flutter application.
+![alt text](https://github.com/k2tam/Flutter_Expense_Tracker/blob/main/readme_images/home_landscape.png?raw=true)
 
-A few resources to get you started if this is your first Flutter project:
+![alt text](https://github.com/k2tam/Flutter_Expense_Tracker/blob/main/readme_images/dismiss.png?raw=true)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![alt text](https://github.com/k2tam/Flutter_Expense_Tracker/blob/main/readme_images/add_expense.png?raw=true)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/k2tam/Flutter_Expense_Tracker/blob/main/readme_images/image_picker.png?raw=true)
+
+
+
+
+
+
+
+
