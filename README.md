@@ -1,5 +1,10 @@
 # Flutter Expense Tracker App
 
+Building an expense tracker app with a responsive and adaptive UI 
+
+
+
+
 ![alt text](https://github.com/k2tam/Flutter_Expense_Tracker/blob/main/readme_images/home_light.png?raw=true)
 
 ![alt text](https://github.com/k2tam/Flutter_Expense_Tracker/blob/main/readme_images/home.png?raw=true)
